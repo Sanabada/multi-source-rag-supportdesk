@@ -1,0 +1,12 @@
+.DS_Store
+__pycache__/
+.pytest_cache/
+.venv/
+.hf_cache/
+logs/
+tools/
+reports/report_rendered/
+reports/*.docx
+reports/*.svg
+reports/*.md
+tests/test_rag.py
