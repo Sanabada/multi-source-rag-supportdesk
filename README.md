@@ -91,4 +91,4 @@ logs/retrieval_log.jsonl
 
 The log stores the question, answer, sources used, scores, and contradiction notes.
 
-Code Walk through Video Link: https://drive.google.com/file/d/1PhODlLI6q19jYRppkns8mdegOYMwEBQT/view?usp=drive_link 
+Code Walk through Video Link: https://drive.google.com/file/d/1a-zUrMz5Ee2catlSJa1cVoInBbcWvY7X/view?usp=drive_link
